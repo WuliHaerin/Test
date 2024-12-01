@@ -1,0 +1,24 @@
+[
+    {
+        "id": 4001,
+        "name": "AL式防弹衣",
+        "itemDesc": "轻量级的防弹衣提供不错的保护，同时便捷性高。",
+        "iconPath":"Icon/Armor/AL式防弹衣",
+        "prefabPath":"Prefabs/Armor/AL式防弹衣",
+        "defense": 10,
+        "speedBuff": -2,
+        "stackable":0,
+        "itemType":3
+    },
+    {
+        "id": 4002,
+        "name": "K9式防弹衣",
+        "itemDesc": "厚重的防弹衣提供强大的防御力，但行走会变慢。",
+        "iconPath":"Icon/Armor/K9式防弹衣",
+        "prefabPath":"Prefabs/Armor/K9式防弹衣",
+        "defense": 20,
+        "speedBuff": -10,
+        "stackable":0,
+        "itemType":3
+    }
+]

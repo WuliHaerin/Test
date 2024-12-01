@@ -1,0 +1,13 @@
+    private static __FileName__Table m___FileName__Table = null;
+    public static __FileName__Table __fileName__Table
+    {
+        get
+        {
+            if (m___FileName__Table == null)
+            {
+                m___FileName__Table = new __FileName__Table();
+                m___FileName__Table.LoadConfig("Configs/__FileName__");
+            }
+            return m___FileName__Table;
+        }
+    }

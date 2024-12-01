@@ -1,0 +1,31 @@
+[
+    {
+        "id": 5001,
+        "name": "治疗药水",
+        "itemDesc": "可以用来回复生命值的药物。",
+        "ackBuff": 0,
+        "defenseBuff": 0,
+        "speedBuff": 0,
+        "hpBuff": 20,
+        "iconPath":"Icon/Potion/治疗药水",
+        "prefabPath":"Prefabs/Potion/治疗药水",
+        "stackable":1,
+        "itemType":4
+
+    },
+    {
+        "id": 5002,
+        "name": "肾上腺素",
+        "itemDesc": "可以用来全面增强身体的药物。",
+        "ackBuff": 10,
+        "defenseBuff": 10,
+        "speedBuff": 10,
+        "hpBuff": 20,
+        "iconPath":"Icon/Potion/肾上腺素",
+        "prefabPath":"Prefabs/Potion/肾上腺素",
+        "stackable":1,
+        "itemType":4
+
+    }
+ 
+]

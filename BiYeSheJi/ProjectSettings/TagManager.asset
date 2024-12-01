@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bounds
+  - Gun
+  - Interactable
+  - Background
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Ground
+  - Interact
+  - PlayerItem
+  - ScenceItem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3010538997
+    locked: 0
+  - name: Ground
+    uniqueID: 3697665275
+    locked: 0
+  - name: ScenceItem
+    uniqueID: 3440849673
+    locked: 0
+  - name: Interact
+    uniqueID: 4050289837
+    locked: 0
+  - name: PlayerItem
+    uniqueID: 1336429581
+    locked: 0

@@ -1,0 +1,22 @@
+[
+    {
+        "id":2001,
+        "name":"Pisto",
+        "itemDesc":"一款轻便的手枪，便宜实用",
+        "bulletID":3001,
+        "iconPath":"Icon/Weapon/Pisto",
+        "prefabPath":"Prefabs/Weapon/Pisto",
+        "stackable":0,
+        "itemType":1
+    },
+    {
+        "id":2002,
+        "name":"Rifle",
+        "itemDesc":"一款高射速的全自动步枪，伤害较低",
+        "bulletID":3002,
+        "iconPath":"Icon/Weapon/Rifle",
+        "prefabPath":"Prefabs/Weapon/Rifle",
+        "stackable":0,
+        "itemType":1
+    }
+]
